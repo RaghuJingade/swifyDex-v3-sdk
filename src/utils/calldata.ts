@@ -1,4 +1,4 @@
-import { BigintIsh } from '@uniswap/sdk-core'
+import { BigintIsh } from 'swifydex-sdk-core'
 import JSBI from 'jsbi'
 
 /**
